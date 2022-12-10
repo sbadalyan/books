@@ -1,0 +1,12 @@
+# Dependency description
+node_modules
+
+# CocoPods
+/ios/Pods
+
+# Android
+/android/.gradle
+/android/app/build
+
+# Misc
+.DS_Store
